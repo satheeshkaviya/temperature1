@@ -1,0 +1,44 @@
+
+body{
+    
+    background-repeat: no-repeat;
+    background-attachment: center;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+h1{
+    margin: 0;
+    border: 0;
+    
+}
+header{
+    background-color: rgb(255, 174, 127);
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 10px;
+}
+nav li{
+    display: inline-block;
+    margin: 10px 10px;
+    background-color: chartreuse;
+}
+.temp{
+    color: rgb(61, 43, 226);
+
+}
+p{
+    text-align: center;
+    
+}
+form{
+    text-align: center;
+    
+}
+nav{
+    background-color: darkmagenta;
+}
+.temp{
+    background-color: dimgrey;
+}
